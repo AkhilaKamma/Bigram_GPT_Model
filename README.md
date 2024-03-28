@@ -11,7 +11,6 @@ The below is the command to install pytorch with CUDA
 
 
 To install CUDA virtual environment in jupyter notebooks
-
 **python -m ipykernel install --user --name=cuda --display-name "cuda-gpt"**
 
 
